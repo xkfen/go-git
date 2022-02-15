@@ -5,7 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"net/url"
+	url "github.com/whilp/git-urls"
 	"path"
 
 	"github.com/go-git/go-billy/v5"
