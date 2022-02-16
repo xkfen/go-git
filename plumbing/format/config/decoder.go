@@ -3,7 +3,7 @@ package config
 import (
 	"io"
 
-	"github.com/xkfen/gcfg"
+	"github.com/go-git/gcfg"
 )
 
 // A Decoder reads and decodes config files from an input stream.
