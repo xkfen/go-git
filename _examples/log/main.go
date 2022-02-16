@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-git/go-git/v5"
-	. "github.com/go-git/go-git/v5/_examples"
-	"github.com/go-git/go-git/v5/plumbing/object"
-	"github.com/go-git/go-git/v5/storage/memory"
+	"github.com/xkfen/go-git/v5"
+	. "github.com/xkfen/go-git/v5/_examples"
+	"github.com/xkfen/go-git/v5/plumbing/object"
+	"github.com/xkfen/go-git/v5/storage/memory"
 )
 
 // Example of how to:
